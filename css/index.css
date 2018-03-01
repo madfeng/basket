@@ -1,0 +1,64 @@
+body,html{
+    height:100%;
+    animation: animateBck 5s infinite;
+}
+@keyframes animateBck {
+    from{
+        background:url("/img/0.jpg") no-repeat;
+        background-size: 100% 100%;
+    }
+    to{
+        background:url("/img/1.jpg");
+        background-size: 100% 100%;
+    }
+}
+@-khtml-keyframes animateBck {
+    from{
+        background:url("/img/0.jpg") no-repeat;
+        background-size: 100% 100%;
+    }
+    to{
+        background:url("/img/1.jpg");
+        background-size: 100% 100%;
+    }
+}
+@-moz-keyframes animateBck {
+    from{
+        background:url("/img/0.jpg") no-repeat;
+        background-size: 100% 100%;
+    }
+    to{
+        background:url("/img/1.jpg");
+        background-size: 100% 100%;
+    }
+}
+@-ms-keyframes animateBck {
+    from{
+        background:url("/img/0.jpg") no-repeat;
+        background-size: 100% 100%;
+    }
+    to{
+        background:url("/img/1.jpg");
+        background-size: 100% 100%;
+    }
+}
+@-o-keyframes animateBck {
+    from{
+        background:url("/img/0.jpg") no-repeat;
+        background-size: 100% 100%;
+    }
+    to{
+        background:url("/img/1.jpg");
+        background-size: 100% 100%;
+    }
+}
+@-webkit-keyframes animateBck {
+    from{
+        background:url("/img/0.jpg") no-repeat;
+        background-size: 100% 100%;
+    }
+    to{
+        background:url("/img/1.jpg");
+        background-size: 100% 100%;
+    }
+}
